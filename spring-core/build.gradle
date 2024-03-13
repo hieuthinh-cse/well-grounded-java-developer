@@ -1,0 +1,18 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+application {
+    mainClass = 'Main'
+}
+
+
+dependencies {
+    implementation 'org.springframework:spring-context:5.3.32'
+    implementation 'org.springframework:spring-aspects:5.3.32'
+
+}

@@ -1,4 +1,4 @@
-package vn.icommerce.sharedkernel;
+package com.example;
 
 public class SynchronizationWithoutVolatile {
     private boolean flag = false;

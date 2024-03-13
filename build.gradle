@@ -3,7 +3,7 @@ plugins {
 }
 
 allprojects {
-    group = 'vn.icommerce'
+    group = 'com.example'
     version = '1.0.0'
 }
 

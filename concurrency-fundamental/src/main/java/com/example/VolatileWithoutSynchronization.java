@@ -1,4 +1,4 @@
-package vn.icommerce.sharedkernel;
+package com.example;
 
 public class VolatileWithoutSynchronization {
     private long counter = 0;

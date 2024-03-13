@@ -1,4 +1,4 @@
-package vn.icommerce.sharedkernel;
+package com.example;
 
 public class FSOMain {
     private static final int MAX_TRANSFERS = 1_000;
